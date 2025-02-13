@@ -1,1 +1,1 @@
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorC5&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorC5&layout=compact&theme=beautiful-dracula-darker)
